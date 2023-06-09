@@ -1,6 +1,6 @@
 {
   "name": "@kne/node-red-contrib-fileinject",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "点击上传一个文件",
   "main": "index.js",
   "scripts": {
