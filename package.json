@@ -1,0 +1,24 @@
+{
+  "name": "@kne/node-red-contrib-fileinject",
+  "version": "1.0.0",
+  "description": "点击上传一个文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "fileinject.html",
+    "fileinject.js"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "node-red": {
+    "nodes": {
+      "fileinject": "fileinject.js"
+    }
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2"
+  }
+}
